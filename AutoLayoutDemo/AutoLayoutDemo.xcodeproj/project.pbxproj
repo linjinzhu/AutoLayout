@@ -15,6 +15,7 @@
 		4A8266D51BFD87E100807932 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A8266D31BFD87E100807932 /* LaunchScreen.storyboard */; };
 		4A8266F41BFD889100807932 /* NSLayoutConstraint+VisualFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A8266F11BFD889100807932 /* NSLayoutConstraint+VisualFormat.m */; };
 		4A8266F51BFD889100807932 /* UIView+AutoLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A8266F31BFD889100807932 /* UIView+AutoLayout.m */; };
+		4A8266F91BFDAC1500807932 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4A8266F81BFDAC1500807932 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4A8266F11BFD889100807932 /* NSLayoutConstraint+VisualFormat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+VisualFormat.m"; sourceTree = "<group>"; };
 		4A8266F21BFD889100807932 /* UIView+AutoLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+AutoLayout.h"; sourceTree = "<group>"; };
 		4A8266F31BFD889100807932 /* UIView+AutoLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+AutoLayout.m"; sourceTree = "<group>"; };
+		4A8266F81BFDAC1500807932 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		4A8266C51BFD87E100807932 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4A8266F81BFDAC1500807932 /* README.md */,
 				4A8266C61BFD87E100807932 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -168,6 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A8266F91BFDAC1500807932 /* README.md in Sources */,
 				4A8266F51BFD889100807932 /* UIView+AutoLayout.m in Sources */,
 				4A8266F41BFD889100807932 /* NSLayoutConstraint+VisualFormat.m in Sources */,
 				4A8266CD1BFD87E100807932 /* ViewController.m in Sources */,
